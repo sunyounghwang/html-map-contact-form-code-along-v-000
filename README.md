@@ -49,7 +49,6 @@ comments for the content we will add like so,
 
 <!-- Contact Form -->
 ```
-
 Next, in your browser head to [https://www.google.com/maps](https://www.google.com/maps) and search for a general location. I searched for `Brooklyn Heights, Brooklyn, NY`.
 
 Now click the menu icon located at the top left of the screen and select
